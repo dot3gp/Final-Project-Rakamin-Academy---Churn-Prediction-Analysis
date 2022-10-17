@@ -1,7 +1,15 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dot3gp)](https://github.com/dot3gp/github-readme-stats&show_icons=true&theme=onedark)
+
+
+# Introduce
+Bukapedia is e-commerce in Indonesia. Bukapedia sells various types of products, ranging from Grocery,
+Electronic, Fashion, Laptop & Accessory and others. However, Bukapedia has problems with customers Churn.
+
 # Churn-Prediction-Analysis
 
 Dataset Summary 
-![image](https://user-images.githubusercontent.com/61017058/184572093-4aa4af07-9fb1-44cc-b98e-9deacc3b34df.png)
+![image](https://user-images.githubusercontent.com/61017058/196086312-d152e204-4264-4067-83d1-e9636b20a3e1.png)
+![image](https://user-images.githubusercontent.com/61017058/196086335-5030dfa6-43a0-421c-a427-1f62f56658e0.png)
 
 Note : 
 1. Terdapat missing value di beberapa kolom seperti Tenure, WarehouseToHome, HourSpendOnApp, OrderAmountHikeFromlastYear, CouponUsed, OrderCount, DaySinceLastOrder
@@ -47,3 +55,14 @@ Hasil modeling dengan Hyperparameter :
 ![image](https://user-images.githubusercontent.com/61017058/184575071-86de27c4-931b-4a09-a181-c14e32a02ae0.png)
 
 1. ada perubahan yang cukup signifikan dari hasil machine learning dengan model catboost 93%. ini adalah yang di ambil menjadi implementasi bisnis nantinya.
+
+# Business Recomendation
+![image](https://user-images.githubusercontent.com/61017058/196086482-21d59944-1836-4813-8e88-76abd346567a.png)
+
+The percentage of churn due to customer complaints
+(31.67%) almost 3 times greater than the percentage of total churn of customers who did not complain (10.93%).
+
+# Business impact 
+![image](https://user-images.githubusercontent.com/61017058/196086591-c6beb124-7688-41b8-8681-59ba2c34af06.png)
+
+after using the machine learning modeling that we have created, it is expected to reduce the potential for churn by 20% ! 
